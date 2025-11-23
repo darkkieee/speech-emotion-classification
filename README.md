@@ -1,5 +1,5 @@
 # speech-emotion-classification
-speech emotion classification using RAVDESS,TESS, SAVEE, and EMO-DB datasets.
+speech emotion classification using RAVDESS
 
 
 # RAVDESS Speech Emotion Classification
